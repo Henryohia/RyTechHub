@@ -6,7 +6,7 @@ The application demonstrates the main database operations: creating, retrieving,
 
 I developed this software to strengthen my skills in cloud database integration, JavaScript programming, asynchronous operations, and database management. I wanted to understand how applications communicate with cloud-hosted databases and how related collections can be used to organize business information. This project provides a foundation for expanding the CRM into a more complete customer and sales management system.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/eMmA7UOEcq4)
 
 The demonstration video will show the application running in the terminal, walk through the main source-code files, explain the database operations, and display the customer and sales collections in MongoDB Atlas.
 
